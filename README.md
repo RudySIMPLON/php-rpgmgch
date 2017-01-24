@@ -1,4 +1,4 @@
-# php-rpgmgch
+ # php-rpgmgch
 
 # Step 1 : Afficher un tableau d'utilisateurs
 
@@ -29,7 +29,8 @@ return [
 ### UserTable.php
 Créer un fichier userTable.php qui va récupérer la liste des clients et générer un tableau html affichant l'ensemble de leur informations
 ```
-$users = require('users.php');
+$users = requi
+re('users.php');
 
 <html
 ....
